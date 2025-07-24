@@ -6,21 +6,14 @@
 
 \## Agile Quiz Result
 
-
-
-!\[Agile Quiz Result](certificates/Agile\_quiz\_result.png)
-
-
-
+!\[Agile Quiz Result](SDLC\Agile_quiz_result.jpg" )
 
 
 \## Git Simplilearn Certificate
 
-
-
-!\[Git Simplilearn Certificate](certificates/Git\_Simplilearn.png)
+!\[Git Simplilearn Certificate](ttps: GIT\Simplilearn_Git_certificate.jpg)
 
 
 
-&nbsp;
+ 
 

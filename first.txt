@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is the first text file created.
 Hello, This is Shravanthi.
+=======
+This is the first text file created.This line is from QA branch
+>>>>>>> QA

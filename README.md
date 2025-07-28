@@ -16,7 +16,7 @@
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/Simplilearn_Git_certificate.jpg" alt='image'>
 
 !\[Git Code signal Certificate](GIT\CodeSignal_Git_certificate.jpg")
-<img src = "" alt = 'image'>
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_Git_certificate.jpg" alt = 'image'>
 
 
 

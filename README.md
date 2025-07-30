@@ -14,7 +14,7 @@
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitBranch_certificate.png" alt = 'image'>
 
 !\[Linux]
-
+Day 1
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H1.png" alt = 'image'>
 
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H2.png" alt = 'image'>
@@ -23,6 +23,9 @@
 
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H4.png" alt = 'image'>
 
+Day 2
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H5%20.png" alt = 'image'>
 
- 
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H6.png" alt = 'image'>
 
+<imh src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H7.png" alt = 'image'>

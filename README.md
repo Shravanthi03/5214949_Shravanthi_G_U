@@ -13,19 +13,14 @@
 
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitBranch_certificate.png" alt = 'image'>
 
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitUndoingChanges_certificate%20.png" alt = 'image'>
+
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitRemoteRepository_certificate.png" alt = 'image'>
+
 !\[Linux]
-Day 1
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H1.png" alt = 'image'>
+Added screenshots in the linux folder
 
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H2.png" alt = 'image'>
+!\[C Programming]
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/Sololearn_C_Beginner.png" alt = 'image'>
 
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H3.png" alt = 'image'>
-
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H4.png" alt = 'image'>
-
-Day 2
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H5%20.png" alt = 'image'>
-
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H6.png" alt = 'image'>
-
-<imh src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/Linux/H7.png" alt = 'image'>
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/Sololearn_C_Intermediate.png" alt = 'image'>

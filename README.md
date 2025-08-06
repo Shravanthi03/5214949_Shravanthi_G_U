@@ -17,6 +17,10 @@
 
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitRemoteRepository_certificate.png" alt = 'image'>
 
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitAdvcanceFeatures.png" alt = 'image'>
+
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_Git%20courseCertificate.png" alt = 'image'>
+
 !\[Linux]
 Added screenshots in the linux folder
 

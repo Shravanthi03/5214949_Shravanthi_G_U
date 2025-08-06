@@ -9,7 +9,7 @@
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/Simplilearn_Git_certificate.jpg" alt='image'>
 
 !\[Git Code signal Certificate](GIT\CodeSignal_Git_certificate.jpg")
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_Git_certificate.jpg" alt = 'image'>
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitBasics_certificate.jpg" alt = 'image'>
 
 <img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/GIT/CodeSignal_GitBranch_certificate.png" alt = 'image'>
 

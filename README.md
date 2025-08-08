@@ -25,6 +25,6 @@
 Added screenshots in the linux folder
 
 !\[C Programming]
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/Sololearn_C_Beginner.png" alt = 'image'>
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/Introduction_to_C_Sololearn.jpg" alt = 'image'>
 
-<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/Sololearn_C_Intermediate.png" alt = 'image'>
+<img src = "https://github.com/Shravanthi03/5214949_Shravanthi_G_U/blob/main/C%20programming/C_Intermediate_Sololearn.jpg" alt = 'image'>
